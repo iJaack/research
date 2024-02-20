@@ -1,2 +1,2 @@
-# research
+# Research
 Scripts and data
